@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @farwarizz
+- 👋 Hi, I’m Ume Farwa Rizvi.
 - 👀 I’m interested in Coding and Logic Building.
 - 🌱 I’m currently learning Computer Science.
 - 💞️ I’m looking to collaborate on any Creative projects.
